@@ -1,0 +1,2 @@
+#!/bin/bao
+echo $(($POWER / DIVIDE))
