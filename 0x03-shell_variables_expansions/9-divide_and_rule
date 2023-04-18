@@ -1,2 +1,2 @@
-#!/bin/bao
-echo $(($POWER / DIVIDE))
+#!/bin/bash
+echo $(($POWER / $DIVIDE))
